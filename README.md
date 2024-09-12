@@ -18,16 +18,3 @@ Please give this repo a star if you want to host it!
 ## those who decided to give this repo a star and fork it :
 [![Stargazers repo roster for @player-k12/player-k12.github.io](http://reporoster.com/stars/player-k12/player-k12.github.io)](http://github.com/player-k12/player-k12.github.io/stargazers)
 [![Forkers repo roster for @player-k12/player-k12.github.io](http://reporoster.com/forks/player-k12/player-k12.github.io)](http://github.com/player-k12/player-k12.github.io/network/members)
-
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/player-k12/player-k12.github.io.svg)](https://starchart.cc/player-k12/player-k12.github.io)
-
-## feel free to make a pull request
-## if you have any questions go to the Discussions tap and ask your question there!
-### the committed pull requests are updated on the site automaticlly
-### if the website didnt work then use this github page : https://player-k12.github.io/
-### the committed pull requests on the github page may take up to 30 secs to update
-### and also this is a google sites version of this website: https://sites.google.com/view/player-k12
-
